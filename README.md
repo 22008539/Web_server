@@ -59,7 +59,7 @@ httpd.serve_forever()
 
 
 # OUTPUT:
-![OUTPUT](./server/Web_server/Image/Output.png)
+![OUTPUT](./Image/Output.png)
 
 # RESULT:
 
